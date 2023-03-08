@@ -1,0 +1,767 @@
+[
+    {
+        "name": "Dreadknights",
+        "sets": [
+            "Dreadknights"
+        ]
+    },
+    {
+        "name": "Arcane",
+        "sets": [
+            "Arcane"
+        ]
+    },
+    {
+        "name": "God Weapon",
+        "sets": [
+            "Battle Academia"
+        ]
+    },
+    {
+        "name": "Prehistoric Hunters",
+        "sets": [
+            "Prehistoric Hunters"
+        ]
+    },
+    {
+        "name": "Immortal Journey",
+        "sets": [
+            "Immortal Journey"
+        ]
+    },
+    {
+        "name": "Collector Edition",
+        "sets": [
+            "Collector's Edition"
+        ]
+    },
+    {
+        "name": "Spirit Guard",
+        "sets": [
+            "Spirit Guard"
+        ]
+    },
+    {
+        "name": "Event Horizon",
+        "sets": [
+            "Cosmic",
+            "Dark Star"
+        ]
+    },
+    {
+        "name": "Super Galaxy",
+        "sets": [
+            "Super Galaxy"
+        ]
+    },
+    {
+        "name": "Star Guardian",
+        "sets": [
+            "Star Guardian Season 1",
+            "Star Guardian Season 2",
+            "Star Guardian Season 3",
+            "Star Guardian Season 4"
+        ]
+    },
+    {
+        "name": "Sugar Rush",
+        "sets": [
+            "Sugar Rush"
+        ]
+    },
+    {
+        "name": "Ages of Runeterra",
+        "sets": [
+            "Bilgewater: Burning Tides",
+            "Bilgewater: Mercs",
+            "Chronicle",
+            "Curse of the Void",
+            "Freljord",
+            "Otherroads",
+            "Ruination",
+            "Traditional",
+            "Ursine"
+        ]
+    },
+    {
+        "name": "Mecha Kingdoms",
+        "sets": [
+            "Mecha Kingdoms"
+        ]
+    },
+    {
+        "name": "Four Beasts",
+        "sets": [
+            "Dragonmancers",
+            "Phoenixmancers"
+        ]
+    },
+    {
+        "name": "Death Sworn",
+        "sets": [
+            "Death Sworn"
+        ]
+    },
+    {
+        "name": "Demonic",
+        "sets": [
+            "Demonic"
+        ]
+    },
+    {
+        "name": "Culinary Masters",
+        "sets": [
+            "Culinary Masters"
+        ]
+    },
+    {
+        "name": "Odyssey",
+        "sets": [
+            "Odyssey"
+        ]
+    },
+    {
+        "name": "Infernal",
+        "sets": [
+            "Infernal"
+        ]
+    },
+    {
+        "name": "Esports",
+        "sets": [
+            "Challenger",
+            "Conqueror",
+            "World Championship",
+            "World Champions: 2011",
+            "World Champions: 2012",
+            "World Champions: 2013",
+            "World Champions: 2014",
+            "World Champions: 2015",
+            "World Champions: 2016",
+            "World Champions: 2017",
+            "World Champions: 2018",
+            "World Champions: 2019",
+            "World Champions: 2020",
+            "World Champions: 2021"
+        ]
+    },
+    {
+        "name": "Battlecast",
+        "sets": [
+            "Battlecast"
+        ]
+    },
+    {
+        "name": "Crystal Rose",
+        "sets": [
+            "Crystal Rose",
+            "Withered Rose"
+        ]
+    },
+    {
+        "name": "Worldbreaker",
+        "sets": [
+            "Worldbreaker"
+        ]
+    },
+    {
+        "name": "Storycraft",
+        "sets": [
+            "Mythmaker"
+        ]
+    },
+    {
+        "name": "Be Mine",
+        "sets": [
+            "Heartbreakers"
+        ]
+    },
+    {
+        "name": "Order of the Lotus",
+        "sets": [
+            "Order of the Lotus"
+        ]
+    },
+    {
+        "name": "Dark Waters",
+        "sets": [
+            "Bilgewater: Curse of the Drowned"
+        ]
+    },
+    {
+        "name": "Winter Sports",
+        "sets": [
+            "Winter Sports"
+        ]
+    },
+    {
+        "name": "Ashen Knights",
+        "sets": [
+            "Ashen Knights"
+        ]
+    },
+    {
+        "name": "Highway Heretics",
+        "sets": [
+            "Road Warrior",
+            "Vandal"
+        ]
+    },
+    {
+        "name": "ᐸ3",
+        "sets": [
+            "Heartthrobs and Heartaches"
+        ]
+    },
+    {
+        "name": "Warring Kingdoms",
+        "sets": [
+            "Lunar Revel: Warring Kingdoms"
+        ]
+    },
+    {
+        "name": "War is Heck",
+        "sets": [
+            "Commando",
+            "Omega Squad"
+        ]
+    },
+    {
+        "name": "Victorious",
+        "sets": [
+            "Victorious"
+        ]
+    },
+    {
+        "name": "Arcanists",
+        "sets": [
+            "Arcanists"
+        ]
+    },
+    {
+        "name": "Spirit Blossom",
+        "sets": [
+            "Spirit Blossom"
+        ]
+    },
+    {
+        "name": "Versus",
+        "sets": [
+            "Battle of the God-Kings",
+            "Dawnbringer",
+            "Nightbringer"
+        ]
+    },
+    {
+        "name": "Arcana",
+        "sets": [
+            "Arcana"
+        ]
+    },
+    {
+        "name": "Triumphant",
+        "sets": [
+            "Triumphant"
+        ]
+    },
+    {
+        "name": "Kinetex Machina",
+        "sets": [
+            "Zenith Games"
+        ]
+    },
+    {
+        "name": "Neighborhood Nightmare",
+        "sets": [
+            "Fright Night",
+            "Goth"
+        ]
+    },
+    {
+        "name": "Beta",
+        "sets": [
+            "Beta"
+        ]
+    },
+    {
+        "name": "Tales from the Rift",
+        "sets": [
+            "Bewitching",
+            "Trick-or-Treat"
+        ]
+    },
+    {
+        "name": "PROJECT",
+        "sets": [
+            "Cyber Pop",
+            "Program",
+            "PROJECT"
+        ]
+    },
+    {
+        "name": "Eclipse",
+        "sets": [
+            "Coven",
+            "Death Blossom",
+            "Eclipse",
+            "Elderwood",
+            "Omen of the Dark"
+        ]
+    },
+    {
+        "name": "Forgotten Depths",
+        "sets": [
+            "Forgotten Depths"
+        ]
+    },
+    {
+        "name": "Arcade",
+        "sets": [
+            "Arcade: Battle Bosses",
+            "Arcade: Heroes",
+            "Demacia Vice"
+        ]
+    },
+    {
+        "name": "Fallen World",
+        "sets": [
+            "Ashen Knights"
+        ]
+    },
+    {
+        "name": "Cafe Cuties",
+        "sets": [
+            "Cafe Cuties"
+        ]
+    },
+    {
+        "name": "Thunder Lord",
+        "sets": [
+            "Thunder Lord"
+        ]
+    },
+    {
+        "name": "Bees",
+        "sets": [
+            "Bees!"
+        ]
+    },
+    {
+        "name": "The Grind",
+        "sets": [
+            "Cops and Robbers",
+            "Day Job",
+            "Dunkmaster",
+            "High Society",
+            "Luchador",
+            "Mad Scientists",
+            "Rift Hospital",
+            "Soccer Cup",
+            "Surprise Party",
+            "Urf the Manatee"
+        ]
+    },
+    {
+        "name": "The Badge",
+        "sets": [
+            "Riot"
+        ]
+    },
+    {
+        "name": "Definitely Not",
+        "sets": [
+            "Definitely Not"
+        ]
+    },
+    {
+        "name": "Piltover Customs",
+        "sets": [
+            "Piltover Customs"
+        ]
+    },
+    {
+        "name": "Cottontail",
+        "sets": [
+            "Cottontail"
+        ]
+    },
+    {
+        "name": "Legacy",
+        "sets": [
+            "Lancer",
+            "Legacy",
+            "True Warrior"
+        ]
+    },
+    {
+        "name": "Cops and Robbers",
+        "sets": [
+            "Secret Agent"
+        ]
+    },
+    {
+        "name": "Heartbreakers",
+        "sets": [
+            "Heartbreakers"
+        ]
+    },
+    {
+        "name": "Toy Box",
+        "sets": [
+            "Toy Box"
+        ]
+    },
+    {
+        "name": "Academy",
+        "sets": [
+            "Academy"
+        ]
+    },
+    {
+        "name": "Chromacrash",
+        "sets": [
+            "Chromacrash"
+        ]
+    },
+    {
+        "name": "Soulstealer",
+        "sets": [
+            "Soulstealer"
+        ]
+    },
+    {
+        "name": "Supreme Cells",
+        "sets": [
+            "Supreme Cells"
+        ]
+    },
+    {
+        "name": "Guardian of the Sands",
+        "sets": [
+            "Guardian of the Sands",
+            "Pharaoh"
+        ]
+    },
+    {
+        "name": "Mecha",
+        "sets": [
+            "Kaiju",
+            "Mecha"
+        ]
+    },
+    {
+        "name": "Wonders of the World",
+        "sets": [
+            "Wonders of the World"
+        ]
+    },
+    {
+        "name": "Bloodstone",
+        "sets": [
+            "Bloodstone"
+        ]
+    },
+    {
+        "name": "Crimson Elite",
+        "sets": [
+            "Crimson Elite"
+        ]
+    },
+    {
+        "name": "Space Groove",
+        "sets": [
+            "Space Groove"
+        ]
+    },
+    {
+        "name": "Crime City Nightmare",
+        "sets": [
+            "Crime City",
+            "Crime City Nightmare",
+            "Debonair"
+        ]
+    },
+    {
+        "name": "AnimaTech",
+        "sets": [
+            "Anima Squad"
+        ]
+    },
+    {
+        "name": "Elementalist",
+        "sets": [
+            "Elementalist"
+        ]
+    },
+    {
+        "name": "Cloudedge",
+        "sets": [
+            "Shockblade"
+        ]
+    },
+    {
+        "name": "Storybook",
+        "sets": [
+            "Highstakes",
+            "Storybook"
+        ]
+    },
+    {
+        "name": "Honor",
+        "sets": [
+            "Three Honors"
+        ]
+    },
+    {
+        "name": "Galactic",
+        "sets": [
+            "Galactic"
+        ]
+    },
+    {
+        "name": "Stargazer",
+        "sets": [
+            "Stargazer"
+        ]
+    },
+    {
+        "name": "PAX",
+        "sets": [
+            "PAX"
+        ]
+    },
+    {
+        "name": "Snowdown",
+        "sets": [
+            "Snow Day",
+            "Snowdown Showdown",
+            "Winter Wonder"
+        ]
+    },
+    {
+        "name": "Monster Tamers",
+        "sets": [
+            "Monster Tamers"
+        ]
+    },
+    {
+        "name": "Silver Age",
+        "sets": [
+            "Silver Age"
+        ]
+    },
+    {
+        "name": "Institute of War",
+        "sets": [
+            "Marauder",
+            "Warden"
+        ]
+    },
+    {
+        "name": "Sunkissed Summer",
+        "sets": [
+            "Ocean Song",
+            "Pool Party"
+        ]
+    },
+    {
+        "name": "Headhunter",
+        "sets": [
+            "Headhunter"
+        ]
+    },
+    {
+        "name": "Pulsefire",
+        "sets": [
+            "Praetorian",
+            "Pulsefire"
+        ]
+    },
+    {
+        "name": "PsyOps",
+        "sets": [
+            "Arctic Ops",
+            "Black Rose Group",
+            "PsyOps"
+        ]
+    },
+    {
+        "name": "Arclight",
+        "sets": [
+            "Arclight",
+            "Justicar"
+        ]
+    },
+    {
+        "name": "Battle Queens",
+        "sets": [
+            "Battle Queens"
+        ]
+    },
+    {
+        "name": "Cats Versus Dogs",
+        "sets": [
+            "Cats Versus Dogs"
+        ]
+    },
+    {
+        "name": "Woad Tribe",
+        "sets": [
+            "Woad"
+        ]
+    },
+    {
+        "name": "Hexplorer",
+        "sets": [
+            "Hexplorer"
+        ]
+    },
+    {
+        "name": "Moons of Ionia",
+        "sets": [
+            "Blood Moon",
+            "Snow Moon"
+        ]
+    },
+    {
+        "name": "Zombie VS Slayers",
+        "sets": [
+            "Zombies VS Slayers"
+        ]
+    },
+    {
+        "name": "Riot Records",
+        "sets": [
+            "DJ",
+            "K/DA",
+            "Popstar",
+            "Pentakill",
+            "Pentakill III: The Lost Chapter",
+            "True Damage"
+        ]
+    },
+    {
+        "name": "Lunar New Year",
+        "sets": [
+            "Lunar Beast",
+            "Lunar Revel",
+            "Lunar Revel: Firecracker",
+            "Porcelain"
+        ]
+    },
+    {
+        "name": "Iron Firmament",
+        "sets": [
+            "Dreadnova",
+            "Eternum",
+            "Steel Legion",
+            "Steel Valkyries"
+        ]
+    },
+    {
+        "name": "Shan Hai Scrolls",
+        "sets": [
+            "Shan Hai Scrolls"
+        ]
+    },
+    {
+        "name": "Star Voyagers",
+        "sets": [
+            "Astronauts",
+            "Invaders"
+        ]
+    },
+    {
+        "name": "Glacial",
+        "sets": [
+            "Glacial"
+        ]
+    },
+    {
+        "name": "Blackfrost",
+        "sets": [
+            "Blackfrost"
+        ]
+    },
+    {
+        "name": "Hextech",
+        "sets": [
+            "Hextech"
+        ]
+    },
+    {
+        "name": "Fables",
+        "sets": [
+            "Fables"
+        ]
+    },
+    {
+        "name": "Neon Strata",
+        "sets": [
+            "Empyrean"
+        ]
+    },
+    {
+        "name": "Chosen and Forsaken",
+        "sets": [
+            "Chosen",
+            "Forsaken"
+        ]
+    },
+    {
+        "name": "Heavy Metal",
+        "sets": [
+            "Heavy Metal"
+        ]
+    },
+    {
+        "name": "Tales of Borealis",
+        "sets": [
+            "Winterblessed"
+        ]
+    },
+    {
+        "name": "Riftquest",
+        "sets": [
+            "Rift Quest"
+        ]
+    },
+    {
+        "name": "High Noon Gothic",
+        "sets": [
+            "High Noon"
+        ]
+    },
+    {
+        "name": "Ye Olde",
+        "sets": [
+            "Albion",
+            "Medieval"
+        ]
+    },
+    {
+        "name": "Forsaken Hymn",
+        "sets": [
+            "Broken Covenant"
+        ]
+    },
+    {
+        "name": "Folded Edges",
+        "sets": [
+            "Papercraft"
+        ]
+    },
+    {
+        "name": "Dragon World",
+        "sets": [
+            "Dragon World"
+        ]
+    },
+    {
+        "name": "The Ruined King Saga",
+        "sets": [
+            "Ruined",
+            "Sentinels of Light"
+        ]
+    }
+]

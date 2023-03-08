@@ -8,8 +8,18 @@ for (let champion in jsonSkins) {
     
     for (let key in jsonSkins[champion]["skins"]) {
         let championName = jsonSkins[champion].name;
-        let newName = `${key} ${championName}`
-        
+        let newName = '';
+
+        if(championName ==  "Nunu &amp; Willump"){
+            championName = "Nunu_Willump"
+        }
+
+        if(key == 'Original'){
+            newName = championName
+        }else{
+            newName = `${key} ${championName}`
+        }
+
         let obj = {
             name: newName,
             champion: championName,
@@ -21,7 +31,13 @@ for (let champion in jsonSkins) {
         skins.push(obj)
     }
 }
-fs.writeFile('resultSkins.json', JSON.stringify(skins), function (err, result) {
+
+const sort = skins.sort(function(a, b) {
+    return a.champion.localeCompare(b.champion);
+ });
+
+
+fs.writeFile('resultSkins.json', JSON.stringify(sort), function (err, result) {
     if (err) console.log("error", err)
 })
 
